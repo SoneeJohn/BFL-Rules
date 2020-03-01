@@ -1,4 +1,4 @@
-These are the auction values based on our total budget and categories for the top 30 players based on https://hashtagbasketball.com/fantasy-basketball-auction-values
+These are the auction values based on our total budget and categories for the top 30 players based on https://hashtagbasketball.com/fantasy-basketball-auction-values with the following setting ![Settings](https://github.com/SoneeJohn/BFL-Rules/blob/master/Settings.png)
 
 | R# | PLAYER                | POS      | TEAM | GTP | MPG  | VALUED AT |
 |----|-----------------------|----------|------|-----|------|-----------|
