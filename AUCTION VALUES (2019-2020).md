@@ -1,4 +1,4 @@
-These are the auction values based on our total budget and categories for the top 30 players.
+These are the auction values based on our total budget and categories for the top 30 players based on https://hashtagbasketball.com/fantasy-basketball-auction-values
 
 | R# | PLAYER                | POS      | TEAM | GTP | MPG  | VALUED AT |
 |----|-----------------------|----------|------|-----|------|-----------|
