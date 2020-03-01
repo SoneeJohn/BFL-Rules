@@ -1,5 +1,7 @@
 # BFL-Rules Keeper Rules
 
+**Note: It should be noted that even with a keeper league you do not need to partipate in keeping players. Thefore, if these rules seem too complex having these rules enacted would not affect your experience playing fantasy.**
+
 In an effort to make the league a more **enjoyable** and **fair** experience for everyone involved I am proposing we start a keeper league. I know some of you might be hesitant to start such a thing and there are legitimate concerns of how fair this might be (i.e., people keeping players forever) but because how customized we can make our rules this proposal will address those concerns. I also understand some people think keeper leagues are complex but it really doesn’t have to be—again it’s very customizable. Give this document a read and let me know what you think.
 
 ### Basics 
